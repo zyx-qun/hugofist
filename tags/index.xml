@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 这是一个我hugo网站</title>
+    <link>url/tags/</link>
+    <description>Recent content in Tags on 这是一个我hugo网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="url/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>url/tags/blog/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>url/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>url/tags/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>url/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

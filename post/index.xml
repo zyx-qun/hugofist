@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 这是一个我hugo网站</title>
+    <link>url/post/</link>
+    <description>Recent content in Posts on 这是一个我hugo网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 20:43:25 +0800</lastBuildDate><atom:link href="url/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirs</title>
+      <link>url/post/myfirs/</link>
+      <pubDate>Tue, 14 Jun 2022 20:43:25 +0800</pubDate>
+      
+      <guid>url/post/myfirs/</guid>
+      <description>http://10.104.18.10:8080/cloudlab/login.html 服务器网址 下载jdk 卸载自带openJDK grep java rpm -qa |grep yum &amp;ndash;nodeps不动关联文件 rpm -e &amp;ndash;nodeps yum 删除（tab补全） 安装java vi etc/profile 配置错误
+scp -r文件 用户：复制位置 （另一台虚拟机覆盖） mv 文件位置旧名字 文件位置新名字 在hadoop账户下 ssh-keygen ssh-copy-id slave(1.2)/master hadoop master ip：192.168.159.130 slave1 IP：192.168.159.128 slave2 ip：192.168.159.129 远程连接 ssh 用户名@ip
+1.文件复制：本机-&amp;gt;远程服务器：	scp /home/shaoxiaohu/test1.txt shaoxiaohu@172.16.18.1:/home/test2.txt 其中，test1为源文件，test2为目标文件，shaoxiaohu@172.16.18.1为远程服务器的用户名和ip地址
+2.文件复制：远程服务器-&amp;gt;本机　scp shaoxiaohu@172.16.18.2:/home/test2.txt /home/shaoxiaohu/test1.txt 其中，haoxiaohu@172.16.18.2为远程服务器的用户名和ip地址， test2为源文件，test1为目标路径
+3.文件夹复制 scp -r shaoxiaohu@172.16.18.2:/home/ /home/
+chown -R hadoop:hadoop /home/hadoop</description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>url/post/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>url/post/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+ Below you will find some of the most common and helpful pages from our documentation.
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>url/post/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>url/post/test/</guid>
+      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>
